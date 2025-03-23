@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Adrian, graduated System Engineer in Network System Administration, with experience in Network Engineering and System Administration. Currently undergoing BSc in Cybersecurity Engineering and graduated on MSc for Cybersecurity and Big Data fields.<br>Knowledge from daily work tasks and studies on Windows/Linux servers, Incident Managment, Troubleshooting, SIEM tools, Ethical Hacking, Cyber Intelligence, Reverse Engineering and Forensic Analysis.<br> <br>- 🔭 I’m working as System Engineer <br>- ✨ Finding exploits<br>- 📚 I'm currently studying MSc and BSc in Cybersecurity Engineering<br>- ⚡ In my free time I never stop learning new things and combine IT with Sports</p>
+<p align="left">I'm Adrian, graduated System Engineer in Network System Administration, with experience in Network Engineering and System Administration. Currently undergoing BSc in Cybersecurity Engineering and graduated on MSc for Cybersecurity and Big Data fields.<br>Knowledge from daily work tasks and studies on Windows/Linux servers, Incident Managment, Troubleshooting, SIEM tools, Ethical Hacking, Cyber Intelligence, Reverse Engineering and Forensic Analysis.<br> <br>- 🔭 I’m working as a System Engineer <br>- ✨ Finding exploits<br>- 📚 I'm currently studying MSc and BSc in Cybersecurity Engineering<br>- ⚡ In my free time I never stop learning new things and combine IT with Sports</p>
 
 ###
 
